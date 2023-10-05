@@ -1,0 +1,19 @@
+.feedback-btn {
+width: 80px;
+height: 40px;
+margin-right: 20px;
+text-align: center;
+font-size: 16px;
+background-color: pink;
+border-radius: 3px;
+border: 1px solid violet ;
+color: rgb(143, 78, 147);
+}
+
+.btn-container {
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+width: 420px;
+}
